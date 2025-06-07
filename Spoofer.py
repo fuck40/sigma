@@ -3,7 +3,7 @@ import os
 import sys
 import time
 
-VERSION = "1.0.0"
+VERSION = "1.5.0"
 UPDATE_CHECK_URL = "https://pastebin.com/raw/YOUR_PASTE_ID"  # Replace this!
 
 def print_colored(text, color_code=15):
